@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: d13fd4fadb142fa4492c6dafcee812e8
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 4959d9a08936ad44797b090c9bfd6e4f
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: c0bef17556abadd41a0c33af69810a3a
+  - enabled: 1
+    path: Assets/Scenes/Ingame.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/MerryGoRoundScene.unity
+    guid: bc543b59779f140448b977252ef7269f
+  - enabled: 1
+    path: Assets/Scenes/HomeScene.unity
+    guid: 21d830b53e641df48a193b2c2f081b13
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 4310bd8d3698fc146aeedef1a161f06c
+  - enabled: 1
+    path: Assets/Scenes/CircusScene.unity
+    guid: 0cabfc084ef62fe4b82535aa4c2c1c74
+  - enabled: 1
+    path: Assets/Scenes/CrashCarsScene.unity
+    guid: 1913f0c770158124ab4568d27199d92d
+  - enabled: 1
+    path: Assets/Scenes/IceCreamTruckScene.unity
+    guid: f9ddaa8efde01fb47879a86a8beba22b
+  - enabled: 1
+    path: Assets/Scenes/PirateShipScene.unity
+    guid: 5fc36f858c09a2c46a92b5dc7d686fa4
+  - enabled: 1
+    path: Assets/Scenes/RotationScene.unity
+    guid: 66ed8c56877da11489f4c295fc2e299d
+  - enabled: 1
+    path: Assets/Scenes/MerryGoRound/FindDifferentPoints.unity
+    guid: 1202b7b87ded5554091a4721fdf193ab
+  - enabled: 1
+    path: Assets/Scenes/MerryGoRound/Shape2Element.unity
+    guid: 5a79d5d974e13a642859106d4bdbe399
+  - enabled: 1
+    path: Assets/Scenes/MerryGoRound/ShapeClassification.unity
+    guid: 5b532fe33492deb4f92cfab45b0174c5
+  m_configObjects: {}
